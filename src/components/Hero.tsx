@@ -29,7 +29,9 @@ export const Hero: React.FC = () => {
             {/* Giant Futuristic Headline */}
             <div className="space-y-2">
               <h1 className="text-4xl sm:text-6xl xl:text-7xl font-extrabold tracking-tight font-display text-white">
-                Hi, I'm <span className="bg-gradient-to-r from-cyan-400 via-sky-300 to-blue-500 bg-clip-text text-transparent">Abror</span>.
+                Hi, I'm <span className="bg-gradient-to-r from-cyan-400 via-sky-300 to-blue-500 bg-clip-text text-transparent">Abror</span>, <br />
+                <span className="bg-gradient-to-r from-cyan-400 via-sky-300 to-blue-500 bg-clip-text text-transparent">and I'm Black Hacker</span>
+
               </h1>
               <h2 className="text-2xl sm:text-3xl lg:text-4xl font-semibold text-slate-200 tracking-tight">
                 Frontend Developer &amp; Digital Creator
