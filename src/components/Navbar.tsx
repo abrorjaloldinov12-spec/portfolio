@@ -66,7 +66,7 @@ export const Navbar: React.FC = () => {
             </div>
             <div className="flex flex-col">
               <span className="text-xl font-extrabold tracking-wider text-white font-display flex items-center gap-1.5 group-hover:text-cyan-300 transition-colors">
-                ABROR
+                ABRORBEK
               </span>
               <span className="text-[10px] uppercase font-mono tracking-widest text-cyan-400/80 -mt-0.5">
                 Frontend Developer
